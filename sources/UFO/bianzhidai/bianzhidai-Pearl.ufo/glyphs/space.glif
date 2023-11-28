@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="space" format="2">
+	<advance width="396"/>
+	<unicode hex="0020"/>
+	<outline>
+		<component base="pixel_bar"/>
+		<component base="pixel_bar" xOffset="99"/>
+		<component base="pixel_bar" xOffset="198"/>
+		<component base="pixel_bar" xOffset="297"/>
+	</outline>
+</glyph>
