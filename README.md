@@ -6,7 +6,7 @@ Previously constructed in [GDC](http://glyphdrawing.club)
 
 BianZhiDai is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
  
-The first version was released in 18th Novemeber 2023 at VTF, it came in six styles: Base, Comic, Cube, pearl, Ring, Square. This is an updated version. While the updated version was already in processing... BianZhiDai 2.0 is intended to provide a stead(ier) structure for the characters, more decorative/playful styles and (slightly) enhanced readbility. With ten styles: Base, Cube, Stitches, Ring, Pearl, Bubble, Messy, Messier, Brush, and Cloud. 
+The first version of bianzhidai was released in 18th Novemeber 2023 at VTF,  while the updated version was already in processing...it came in six styles: Base, Comic, Cube, pearl, Ring, Square. bianzhidai 2.0 is an updated version, which is intended to provide a stead(ier) structure for the characters, more decorative/playful styles and (slightly) enhanced readbility. With ten styles: Base, Cube, Stitches, Ring, Pearl, Bubble, Messy, Messier, Brush, and Cloud. 
 (Hooo, long list...)
 
 Hope you will enjoy it! <3
