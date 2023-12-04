@@ -20,7 +20,9 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 ## Credit (the typeface and its designer)
 
-Crediting the typeface and its designer is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. Raising awareness of this courtesy can enhance respect within the community.
+Crediting the typeface and its designer is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
+
+ANYWAYS, JUST CREDIT THE DESIGNER, OKAY? <3
 
 ## Publisher
 [Velvetyne Type Foundry](https://velvetyne.fr/)
