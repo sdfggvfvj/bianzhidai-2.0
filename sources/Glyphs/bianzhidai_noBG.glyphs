@@ -2,7 +2,15 @@
 .appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
-"0"
+"0",
+"/pixel",
+"◢",
+"È",
+"Hello Friends",
+LOVE,
+GOOD,
+"DEAR FRIENDS.",
+"Pickup the Sesame"
 );
 axes = (
 {
@@ -200019,7 +200027,7 @@ width = 1587;
 {
 export = 0;
 glyphname = pixel;
-lastChange = "2023-11-27 19:35:43 +0000";
+lastChange = "2023-12-04 09:40:36 +0000";
 layers = (
 {
 associatedMasterId = m01;
@@ -203013,28 +203021,12 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(75,25,l),
-(100,25,l),
-(100,100,l),
-(75,75,l)
-);
-},
-{
-closed = 1;
-nodes = (
-(50,0,l),
-(100,0,l),
-(100,25,l),
-(50,25,l)
-);
-},
-{
-closed = 1;
-nodes = (
+(68,32,l),
+(32,32,l),
 (0,0,l),
-(50,0,l),
-(50,25,l),
-(25,25,l)
+(100,0,l),
+(100,100,l),
+(68,68,l)
 );
 }
 );
@@ -209039,6 +209031,133 @@ nodes = (
 (6,3,o),
 (15,0,o),
 (24,0,cs)
+);
+}
+);
+width = 100;
+},
+{
+associatedMasterId = m004;
+background = {
+shapes = (
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(100,50,l),
+(100,75,l),
+(75,75,l),
+(75,50,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(25,25,l),
+(25,50,l),
+(0,50,l),
+(0,25,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(50,0,l),
+(50,25,l),
+(25,25,l),
+(25,0,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(25,75,l),
+(25,100,l),
+(0,100,l),
+(0,75,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(50,50,l),
+(50,75,l),
+(25,75,l),
+(25,50,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(75,25,l),
+(75,50,l),
+(50,50,l),
+(50,25,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(100,0,l),
+(100,25,l),
+(75,25,l),
+(75,0,l)
+);
+},
+{
+attr = {
+fill = "1";
+strokeWidth = 1;
+};
+closed = 1;
+nodes = (
+(75,75,l),
+(75,100,l),
+(50,100,l),
+(50,75,l)
+);
+}
+);
+};
+layerId = "3419FF41-8F8E-4C89-A237-CD3006C71108";
+name = "4 Dec 23 at 10:40";
+shapes = (
+{
+closed = 1;
+nodes = (
+(75,25,l),
+(25,25,l),
+(0,0,l),
+(100,0,l),
+(100,100,l),
+(75,75,l)
 );
 }
 );
