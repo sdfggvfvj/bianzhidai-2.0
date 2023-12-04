@@ -20,7 +20,7 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 ## Credit 💡
 
-Crediting the typeface, its designer and the foundries is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
+Crediting the typeface, its designer and the type foundries is crucial, as it shows appreciation for the generosity of designers and type foundries which are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
 
 ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? ❤\(ᵔ.ᵔ)/❤
 
@@ -30,10 +30,10 @@ ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? ❤\(ᵔ.ᵔ)/❤
 ## Co-publisher 💿 💿
 [notyourtype foundry](https://notyourtype.nl)
 
-## Reference 💥
+## Reference 🏞️
 ![alt text](eg.webp "Reference")
 
-## Styles 💥
+## Styles 🦥
 ![alt text](Preview.png "TEN STYLES")
 
 ## GIF 🔨🪜🪴
