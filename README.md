@@ -31,4 +31,4 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 ![alt text](construction.gif "how is this font contructed?")
 
 ## Previous Version - BianZhiDai 1.0
-[bianzhidai](https://github.com/sdfggvfvj/bianzhidai)
+[bianzhidai 1.0](https://github.com/sdfggvfvj/bianzhidai)
