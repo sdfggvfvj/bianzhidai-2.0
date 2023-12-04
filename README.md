@@ -1,4 +1,4 @@
-## About BianZhiDai 2.0
+## About BianZhiDai 2.0 ⚡⚡⚡
 
 **bianzhidai** is inspired by shading characters in ASCII art and 编 织 袋 Biān Zhī Daì (woven plastic bag in Simple Chinese). 
 Previously constructed in [GDC](http://glyphdrawing.club) 
@@ -15,10 +15,10 @@ Hope you will enjoy it! <3
 
 Xiaoyuan Gao(CN) is a Rotterdam-based freelance graphic designer, image-maker, type designer and the initiator of “notyourtype foundry”. She loves experimenting with unconventional approaches to type design and typesetting. She sees type design (making custom characters into a font file) as making a tool for typing, just like a customised typewriter. She also enjoys creating visuals out of found images , which allows her to combine typography and imagery in playful ways. 
 
-## License 👀
+## License ⚡
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
-## Credit (the typeface and its designer) ✍️
+## Credit (the typeface and its designer) 💡
 
 Crediting the typeface and its designer is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
 
@@ -30,14 +30,14 @@ ANYWAYS, JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? <3
 ## Co-publisher 💿 💿
 [notyourtype foundry](https://notyourtype.nl)
 
-## Reference 
+## Reference 💥
 ![alt text](eg.webp "Reference")
 
-## Styles
+## Styles 💥
 ![alt text](Preview.png "TEN STYLES")
 
-## GIF
+## GIF 🧀
 ![alt text](construction.gif "how is this font contructed?")
 
-## Previous Version - BianZhiDai 1.0
+## Previous Version - BianZhiDai 1.0 🧀
 [bianzhidai 1.0](https://github.com/sdfggvfvj/bianzhidai)
