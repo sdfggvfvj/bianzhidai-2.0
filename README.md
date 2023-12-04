@@ -7,7 +7,7 @@ Previously constructed in [GDC](http://glyphdrawing.club)
 **bianzhidai 2.0** is an updated version, which is intended to provide a stead(ier) structure for the characters, more decorative/playful styles and (slightly) enhanced readbility. With ten styles: Base, Cube, Stitches, Ring, Pearl, Bubble, Messy, Messier, Brush, and Cloud. 
 (Hooo, long list...)
 
-Hope you will enjoy it! <3
+Hope you will enjoy it! ٩(◕‿◕｡)۶
 
 ## Designer 👀
 
@@ -18,11 +18,11 @@ Xiaoyuan Gao(CN) is a Rotterdam-based freelance graphic designer, image-maker, t
 ## License ⚡
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
-## Credit (the typeface and its designer) 💡
+## Credit 💡
 
-Crediting the typeface and its designer is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
+Crediting the typeface, its designer and the foundries is crucial, as it shows appreciation for the generosity of designers who are willing to offer their fonts as open-source. It's noticeable that some individuals neglect to credit open-source typefaces and their designers. Acknowledging and appreciating these creative contributions is important. 
 
-ANYWAYS, JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? <3
+ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? ❤\(ᵔ.ᵔ)/❤
 
 ## Publisher 💿
 [Velvetyne Type Foundry](https://velvetyne.fr/)
@@ -36,7 +36,7 @@ ANYWAYS, JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? <3
 ## Styles 💥
 ![alt text](Preview.png "TEN STYLES")
 
-## GIF 🧀
+## GIF 🔨🪜🪴
 ![alt text](construction.gif "how is this font contructed?")
 
 ## Previous Version - BianZhiDai 1.0 🧀
