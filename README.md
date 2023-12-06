@@ -15,6 +15,7 @@ Hope you will enjoy it! ٩(◕‿◕｡)۶
 > To use this font, please ensure you credit the designer and the foundry [Xiaoyuan Gao and notyourtype foundry](https://notyourtype.nl/)
 >
 > Acknowledging and appreciating creative contributions is important.
+>
 > ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, IT'S REALLY NOT THAT HARD. 
 
 
