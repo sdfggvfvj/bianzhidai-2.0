@@ -19,7 +19,7 @@ Hope you will enjoy it! ٩(◕‿◕｡)۶
 > ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, IT'S REALLY NOT THAT HARD. 
 
 
-[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/tree/main/fonts)
+[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai-2.0/tree/main/fonts)
 
 ## Designer 👀
 
