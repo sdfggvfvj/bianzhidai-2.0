@@ -9,6 +9,17 @@ Previously constructed in [GDC](http://glyphdrawing.club)
 
 Hope you will enjoy it! ٩(◕‿◕｡)۶
 
+## Download & Install
+
+> [!WARNING]  
+> To use this font, please ensure you credit the designer and the foundry [Xiaoyuan Gao and notyourtype foundry](https://notyourtype.nl/)
+>
+> Acknowledging and appreciating creative contributions is important.
+> ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, IT'S REALLY NOT THAT HARD. 
+
+
+[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/tree/main/fonts)
+
 ## Designer 👀
 
 [Xiaoyuan Gao](https://notyourtype.nl)
@@ -17,17 +28,6 @@ Xiaoyuan Gao(CN) is a Rotterdam-based freelance graphic designer, image-maker, t
 
 ## License ⚡
 Bianzhidai is licensed under the SIL Open Font License, version 1.1.
-
-## Download & Install
-
-> [!WARNING]  
-> To use this font, please ensure you credit the designer and the foundry [Xiaoyuan Gao&notyourtype foundry](https://notyourtype.nl/)
->
-> Acknowledging and appreciating creative contributions is important.
-> ANYWAYS, PLEASE JUST CREDIT THE TYPEFACE AND DESIGNER, OKAY? ❤\(ᵔ.ᵔ)/❤
-
-
-[I agree and will credit, download fonts!](https://github.com/sdfggvfvj/bianzhidai/tree/main/fonts)
 
 ## Publisher 💿
 [Velvetyne Type Foundry](https://velvetyne.fr/)
