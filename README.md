@@ -31,6 +31,11 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 [By clicking this link, you agree to credit the designer. Download bianzhidai font here!](https://github.com/sdfggvfvj/bianzhidai-2.0/archive/refs/heads/main.zip)
 
+## Credit 🪴
+
+This is the line you can copy to credit the font:
+**BianZhiDai by Xiaoyuan Gao, notyourtypefoundry. Distributed by velvetyne.fr.**
+
 ## Reference 🏞️
 ![alt text](eg.webp "Reference")
 
