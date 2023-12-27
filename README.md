@@ -36,6 +36,7 @@ Bianzhidai is licensed under the SIL Open Font License, version 1.1.
 
 ## Styles 🦥
 ![alt text](Preview.png "TEN STYLES")
+![alt text](color.jpg "color font")
 
 ## GIF 🔨🪜🪴
 ![alt text](construction.gif "how is this font contructed?")
