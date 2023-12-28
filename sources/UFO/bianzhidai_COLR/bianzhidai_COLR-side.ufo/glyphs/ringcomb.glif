@@ -1,54 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ringcomb" format="2">
-	<advance width="300"/>
-	<unicode hex="030A"/>
-	<anchor x="200" y="500" name="_top"/>
-	<anchor x="200" y="900" name="top"/>
-	<outline>
-		<component base="pixel" xOffset="100" yOffset="800"/>
-		<component base="pixel" yOffset="700"/>
-		<component base="pixel" xOffset="200" yOffset="700"/>
-		<component base="pixel" xOffset="100" yOffset="600"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>2</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>3</integer>
-					<key>name</key>
-					<string>pixel</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="300"/>
+  <unicode hex="030A"/>
+  <anchor x="200" y="500" name="_top"/>
+  <anchor x="200" y="900" name="top"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="800" identifier="336B6530"/>
+    <component base="pixel" yOffset="700" identifier="DD8801C4"/>
+    <component base="pixel" xOffset="200" yOffset="700" identifier="E27C1B8D"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="0078D2FE"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:15:38 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0078D2FE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>336B6530</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DD8801C4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E27C1B8D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

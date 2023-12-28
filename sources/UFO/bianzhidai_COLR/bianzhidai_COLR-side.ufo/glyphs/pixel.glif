@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="pixel" format="2">
-	<advance width="100"/>
-	<outline>
-		<contour>
-			<point x="100" y="100" type="line"/>
-			<point x="75" y="75" type="line"/>
-			<point x="75" y="25" type="line"/>
-			<point x="100" y="0" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="100"/>
+  <outline>
+    <contour>
+      <point x="100" y="100" type="line"/>
+      <point x="75" y="75" type="line"/>
+      <point x="75" y="25" type="line"/>
+      <point x="100" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:28:24 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,74 +1,76 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>ascender</key>
-	<integer>800</integer>
-	<key>capHeight</key>
-	<integer>700</integer>
-	<key>copyright</key>
-	<string>Xiaoyuan Gao and notyourtype foundry</string>
-	<key>descender</key>
-	<integer>-200</integer>
-	<key>familyName</key>
-	<string>bianzhidai_COLR</string>
-	<key>openTypeHeadCreated</key>
-	<string>2023/10/16 13:29:41</string>
-	<key>openTypeNameDesigner</key>
-	<string>Xiaoyuan Gao</string>
-	<key>openTypeNameDesignerURL</key>
-	<string>https://notyourtype.nl</string>
-	<key>openTypeNameLicense</key>
-	<string>SIL Open Font License</string>
-	<key>openTypeNameLicenseURL</key>
-	<string>https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL</string>
-	<key>openTypeNameManufacturer</key>
-	<string>Xiaoyuan Gao</string>
-	<key>openTypeNameManufacturerURL</key>
-	<string>https://notyourtype.nl</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>back</string>
-	<key>openTypeNameSampleText</key>
-	<string>The Lazy Dogs Jumped Over The Quick Brown Fox. </string>
-	<key>openTypeOS2VendorID</key>
-	<string>NYTF</string>
-	<key>openTypeOS2WeightClass</key>
-	<integer>400</integer>
-	<key>openTypeOS2WidthClass</key>
-	<integer>5</integer>
-	<key>postscriptBlueValues</key>
-	<array>
-		<real>-16.0</real>
-		<real>0.0</real>
-		<real>500.0</real>
-		<real>516.0</real>
-		<real>700.0</real>
-		<real>716.0</real>
-		<real>800.0</real>
-		<real>816.0</real>
-	</array>
-	<key>postscriptFontName</key>
-	<string>bianzhidai_COLR-back</string>
-	<key>postscriptOtherBlues</key>
-	<array>
-		<real>-216.0</real>
-		<real>-200.0</real>
-	</array>
-	<key>styleMapFamilyName</key>
-	<string>bianzhidai_COLR back</string>
-	<key>styleMapStyleName</key>
-	<string>regular</string>
-	<key>styleName</key>
-	<string>back</string>
-	<key>trademark</key>
-	<string>Xiaoyuan Gao and notyourtype foundry</string>
-	<key>unitsPerEm</key>
-	<integer>1000</integer>
-	<key>versionMajor</key>
-	<integer>2</integer>
-	<key>versionMinor</key>
-	<integer>0</integer>
-	<key>xHeight</key>
-	<integer>500</integer>
-</dict>
+  <dict>
+    <key>ascender</key>
+    <integer>800</integer>
+    <key>capHeight</key>
+    <integer>700</integer>
+    <key>copyright</key>
+    <string>Xiaoyuan Gao and notyourtype foundry</string>
+    <key>descender</key>
+    <integer>-200</integer>
+    <key>familyName</key>
+    <string>bianzhidai_COLR</string>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2023/10/16 13:29:41</string>
+    <key>openTypeNameDesigner</key>
+    <string>Xiaoyuan Gao</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://notyourtype.nl</string>
+    <key>openTypeNameLicense</key>
+    <string>SIL Open Font License</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&amp;id=OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Xiaoyuan Gao</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://notyourtype.nl</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>back</string>
+    <key>openTypeNameSampleText</key>
+    <string>The Lazy Dogs Jumped Over The Quick Brown Fox. </string>
+    <key>openTypeOS2VendorID</key>
+    <string>NYTF</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <integer>-16</integer>
+      <integer>0</integer>
+      <integer>500</integer>
+      <integer>516</integer>
+      <integer>700</integer>
+      <integer>716</integer>
+      <integer>800</integer>
+      <integer>816</integer>
+    </array>
+    <key>postscriptFontName</key>
+    <string>bianzhidai_COLR-back</string>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <integer>-216</integer>
+      <integer>-200</integer>
+    </array>
+    <key>styleMapFamilyName</key>
+    <string>bianzhidai_COLR back</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>back</string>
+    <key>trademark</key>
+    <string>Xiaoyuan Gao and notyourtype foundry</string>
+    <key>unitsPerEm</key>
+    <integer>1000</integer>
+    <key>versionMajor</key>
+    <integer>2</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>500</integer>
+  </dict>
 </plist>
