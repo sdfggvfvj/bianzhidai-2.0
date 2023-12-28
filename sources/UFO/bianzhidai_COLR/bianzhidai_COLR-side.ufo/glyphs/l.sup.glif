@@ -2,10 +2,10 @@
 <glyph name="l.sup" format="2">
   <advance width="175"/>
   <outline>
-    <component base="pixel" yOffset="600" identifier="FFDB90AF"/>
-    <component base="pixel" yOffset="500" identifier="E06CF1DB"/>
-    <component base="pixel" yOffset="400" identifier="19FCAE18"/>
-    <component base="pixel" yOffset="300" identifier="3691AD11"/>
+    <component base="pixel" yOffset="600" identifier="001B880E"/>
+    <component base="pixel" yOffset="500" identifier="81526ECB"/>
+    <component base="pixel" yOffset="400" identifier="E77C710C"/>
+    <component base="pixel" yOffset="300" identifier="823A6617"/>
   </outline>
   <lib>
     <dict>
@@ -15,22 +15,22 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>19FCAE18</key>
+        <key>001B880E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3691AD11</key>
+        <key>81526ECB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E06CF1DB</key>
+        <key>823A6617</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FFDB90AF</key>
+        <key>E77C710C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

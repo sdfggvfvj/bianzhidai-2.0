@@ -6,21 +6,21 @@
   <anchor x="450" y="250" name="center"/>
   <anchor x="450" y="500" name="top"/>
   <outline>
-    <component base="pixel" xOffset="300" yOffset="400" identifier="E1FAB822"/>
-    <component base="pixel" xOffset="300" yOffset="200" identifier="0B436FE2"/>
-    <component base="pixel" xOffset="600" yOffset="400" identifier="9B233842"/>
-    <component base="pixel" xOffset="500" yOffset="300" identifier="1AAB4583"/>
-    <component base="pixel" xOffset="300" identifier="5D540ACE"/>
-    <component base="pixel" xOffset="200" yOffset="100" identifier="467D6176"/>
-    <component base="pixel" xOffset="400" yOffset="300" identifier="AEEE4451"/>
-    <component base="pixel" xOffset="400" identifier="DD7B2CD0"/>
-    <component base="pixel" xOffset="500" identifier="2AADA6AF"/>
-    <component base="pixel" xOffset="200" yOffset="400" identifier="6A2C01D5"/>
-    <component base="pixel" identifier="31285E9F"/>
-    <component base="pixel" xOffset="100" yOffset="100" identifier="7E5DD428"/>
-    <component base="pixel" xOffset="700" yOffset="400" identifier="3E77ADB4"/>
-    <component base="pixel" xOffset="100" yOffset="300" identifier="A03B558D"/>
-    <component base="pixel" xOffset="600" yOffset="100" identifier="C3AB3CD1"/>
+    <component base="pixel" xOffset="300" yOffset="400" identifier="133AC3B7"/>
+    <component base="pixel" xOffset="300" yOffset="200" identifier="188C9C01"/>
+    <component base="pixel" xOffset="600" yOffset="400" identifier="0DA486E4"/>
+    <component base="pixel" xOffset="500" yOffset="300" identifier="130755CC"/>
+    <component base="pixel" xOffset="300" identifier="4521EFB6"/>
+    <component base="pixel" xOffset="200" yOffset="100" identifier="C1F4B225"/>
+    <component base="pixel" xOffset="400" yOffset="300" identifier="07239956"/>
+    <component base="pixel" xOffset="400" identifier="3338BB99"/>
+    <component base="pixel" xOffset="500" identifier="F1B3D464"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="164C19E2"/>
+    <component base="pixel" identifier="3BC512BF"/>
+    <component base="pixel" xOffset="100" yOffset="100" identifier="25C4F1B8"/>
+    <component base="pixel" xOffset="700" yOffset="400" identifier="F79BF908"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="69FDC31D"/>
+    <component base="pixel" xOffset="600" yOffset="100" identifier="C0FCED07"/>
   </outline>
   <lib>
     <dict>
@@ -30,77 +30,77 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0B436FE2</key>
+        <key>07239956</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>1AAB4583</key>
+        <key>0DA486E4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>2AADA6AF</key>
+        <key>130755CC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>31285E9F</key>
+        <key>133AC3B7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3E77ADB4</key>
+        <key>164C19E2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>467D6176</key>
+        <key>188C9C01</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5D540ACE</key>
+        <key>25C4F1B8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6A2C01D5</key>
+        <key>3338BB99</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7E5DD428</key>
+        <key>3BC512BF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9B233842</key>
+        <key>4521EFB6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A03B558D</key>
+        <key>69FDC31D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AEEE4451</key>
+        <key>C0FCED07</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C3AB3CD1</key>
+        <key>C1F4B225</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DD7B2CD0</key>
+        <key>F1B3D464</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E1FAB822</key>
+        <key>F79BF908</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

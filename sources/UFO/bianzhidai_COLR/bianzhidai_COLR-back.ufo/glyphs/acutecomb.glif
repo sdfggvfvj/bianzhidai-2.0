@@ -5,9 +5,9 @@
   <anchor x="100" y="500" name="_top"/>
   <anchor x="100" y="900" name="top"/>
   <outline>
-    <component base="pixel" yOffset="600" identifier="136FE0D9"/>
-    <component base="pixel" xOffset="100" yOffset="700" identifier="C32122F1"/>
-    <component base="pixel" xOffset="200" yOffset="800" identifier="BEE88921"/>
+    <component base="pixel" yOffset="600" identifier="AFB45BE6"/>
+    <component base="pixel" xOffset="100" yOffset="700" identifier="01C34C2D"/>
+    <component base="pixel" xOffset="200" yOffset="800" identifier="A32D4802"/>
   </outline>
   <lib>
     <dict>
@@ -17,17 +17,17 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>136FE0D9</key>
+        <key>01C34C2D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BEE88921</key>
+        <key>A32D4802</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C32122F1</key>
+        <key>AFB45BE6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
