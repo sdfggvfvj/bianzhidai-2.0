@@ -3,51 +3,53 @@
   <advance width="375"/>
   <unicode hex="00B2"/>
   <outline>
-    <component base="pixel" xOffset="200" yOffset="500" identifier="0B607BA1"/>
-    <component base="pixel" xOffset="100" yOffset="400" identifier="98593DFA"/>
-    <component base="pixel" yOffset="300" identifier="13542B24"/>
-    <component base="pixel" xOffset="100" yOffset="300" identifier="1453B5F2"/>
-    <component base="pixel" xOffset="200" yOffset="300" identifier="F46ED4D3"/>
-    <component base="pixel" xOffset="100" yOffset="600" identifier="BB2BA0B1"/>
-    <component base="pixel" yOffset="600" identifier="ED934B96"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="2E017A74"/>
+    <component base="pixel" xOffset="100" yOffset="400" identifier="951A4F10"/>
+    <component base="pixel" yOffset="300" identifier="62C66D86"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="6A4F68FB"/>
+    <component base="pixel" xOffset="200" yOffset="300" identifier="2C6A707C"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="5D0F8E09"/>
+    <component base="pixel" yOffset="600" identifier="B8E50A46"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0B607BA1</key>
+        <key>2C6A707C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>13542B24</key>
+        <key>2E017A74</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>1453B5F2</key>
+        <key>5D0F8E09</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>98593DFA</key>
+        <key>62C66D86</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BB2BA0B1</key>
+        <key>6A4F68FB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>ED934B96</key>
+        <key>951A4F10</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F46ED4D3</key>
+        <key>B8E50A46</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

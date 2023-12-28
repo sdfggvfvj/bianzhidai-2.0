@@ -7,81 +7,83 @@
   <anchor x="350" y="700" name="top"/>
   <anchor x="680" y="700" name="topright"/>
   <outline>
-    <component base="pixel" yOffset="100" identifier="4C82C871"/>
-    <component base="pixel" yOffset="200" identifier="C0EF3726"/>
-    <component base="pixel" yOffset="300" identifier="5E4F658A"/>
-    <component base="pixel" yOffset="400" identifier="42921A02"/>
-    <component base="pixel" yOffset="500" identifier="919C0148"/>
-    <component base="pixel" yOffset="600" identifier="4F92802A"/>
-    <component base="pixel" identifier="6854F7BF"/>
-    <component base="pixel" xOffset="100" identifier="FE004BC4"/>
-    <component base="pixel" xOffset="200" identifier="F8D951F2"/>
-    <component base="pixel" xOffset="400" identifier="4126D9F0"/>
-    <component base="pixel" xOffset="300" identifier="D50609DE"/>
-    <component base="pixel" xOffset="500" identifier="8F101F9C"/>
+    <component base="pixel" yOffset="100" identifier="986CB283"/>
+    <component base="pixel" yOffset="200" identifier="3626A820"/>
+    <component base="pixel" yOffset="300" identifier="461800DB"/>
+    <component base="pixel" yOffset="400" identifier="50EEA30A"/>
+    <component base="pixel" yOffset="500" identifier="AE485FD2"/>
+    <component base="pixel" yOffset="600" identifier="74095343"/>
+    <component base="pixel" identifier="512CEF65"/>
+    <component base="pixel" xOffset="100" identifier="B2DB3783"/>
+    <component base="pixel" xOffset="200" identifier="B8F907A0"/>
+    <component base="pixel" xOffset="400" identifier="95856235"/>
+    <component base="pixel" xOffset="300" identifier="4506842E"/>
+    <component base="pixel" xOffset="500" identifier="0B0FBECB"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4126D9F0</key>
+        <key>0B0FBECB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>42921A02</key>
+        <key>3626A820</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4C82C871</key>
+        <key>4506842E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4F92802A</key>
+        <key>461800DB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>5E4F658A</key>
+        <key>50EEA30A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6854F7BF</key>
+        <key>512CEF65</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8F101F9C</key>
+        <key>74095343</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>919C0148</key>
+        <key>95856235</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C0EF3726</key>
+        <key>986CB283</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D50609DE</key>
+        <key>AE485FD2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F8D951F2</key>
+        <key>B2DB3783</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>FE004BC4</key>
+        <key>B8F907A0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

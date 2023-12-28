@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="675"/>
+  <unicode hex="004C"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="350" y="350" name="center"/>
+  <anchor x="350" y="700" name="top"/>
+  <anchor x="680" y="700" name="topright"/>
+  <outline>
+    <component base="pixel" yOffset="100" identifier="DD03E694"/>
+    <component base="pixel" yOffset="200" identifier="8E27DDFD"/>
+    <component base="pixel" yOffset="300" identifier="04F4A90C"/>
+    <component base="pixel" yOffset="400" identifier="051E2C26"/>
+    <component base="pixel" yOffset="500" identifier="13D139D8"/>
+    <component base="pixel" yOffset="600" identifier="67D9CD01"/>
+    <component base="pixel" identifier="B3EAD312"/>
+    <component base="pixel" xOffset="100" identifier="B463DE8F"/>
+    <component base="pixel" xOffset="200" identifier="E26E4F7E"/>
+    <component base="pixel" xOffset="400" identifier="836D3285"/>
+    <component base="pixel" xOffset="300" identifier="99F2A89B"/>
+    <component base="pixel" xOffset="500" identifier="648D9F7F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>04F4A90C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>051E2C26</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>13D139D8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>648D9F7F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>67D9CD01</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>836D3285</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8E27DDFD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>99F2A89B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B3EAD312</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B463DE8F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DD03E694</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E26E4F7E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

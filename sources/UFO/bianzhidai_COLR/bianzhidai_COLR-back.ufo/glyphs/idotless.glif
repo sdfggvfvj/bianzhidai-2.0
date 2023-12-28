@@ -6,39 +6,41 @@
   <anchor x="430" y="10" name="ogonek"/>
   <anchor x="100" y="500" name="top"/>
   <outline>
-    <component base="pixel" yOffset="400" identifier="AC7ED7C3"/>
-    <component base="pixel" yOffset="300" identifier="9EF9D9B2"/>
-    <component base="pixel" yOffset="200" identifier="4681ABE8"/>
-    <component base="pixel" yOffset="100" identifier="835B19BE"/>
-    <component base="pixel" identifier="BBEA366B"/>
+    <component base="pixel" yOffset="400" identifier="60FFE2DD"/>
+    <component base="pixel" yOffset="300" identifier="4CD8890B"/>
+    <component base="pixel" yOffset="200" identifier="8EEC2697"/>
+    <component base="pixel" yOffset="100" identifier="2A8C4ACD"/>
+    <component base="pixel" identifier="5C1D8F07"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4681ABE8</key>
+        <key>2A8C4ACD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>835B19BE</key>
+        <key>4CD8890B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9EF9D9B2</key>
+        <key>5C1D8F07</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>AC7ED7C3</key>
+        <key>60FFE2DD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BBEA366B</key>
+        <key>8EEC2697</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

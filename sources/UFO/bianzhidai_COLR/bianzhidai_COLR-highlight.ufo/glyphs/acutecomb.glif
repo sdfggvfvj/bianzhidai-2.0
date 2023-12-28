@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance width="300"/>
+  <unicode hex="0301"/>
+  <anchor x="100" y="500" name="_top"/>
+  <anchor x="100" y="900" name="top"/>
+  <outline>
+    <component base="pixel" yOffset="600" identifier="FE9B5156"/>
+    <component base="pixel" xOffset="100" yOffset="700" identifier="15E71A5D"/>
+    <component base="pixel" xOffset="200" yOffset="800" identifier="87594B9F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>15E71A5D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>87594B9F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FE9B5156</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

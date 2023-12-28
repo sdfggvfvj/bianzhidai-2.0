@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixsuperior" format="2">
+  <advance width="375"/>
+  <unicode hex="2076"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="32D9BE3B"/>
+    <component base="pixel" yOffset="500" identifier="F5DE63EA"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="62D4807D"/>
+    <component base="pixel" yOffset="400" identifier="856B0FC2"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="0E6ECD37"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="702EC734"/>
+    <component base="pixel" xOffset="200" yOffset="600" identifier="9219CF1A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0E6ECD37</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>32D9BE3B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>62D4807D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>702EC734</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>856B0FC2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9219CF1A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F5DE63EA</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

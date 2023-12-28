@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <advance width="400"/>
+  <unicode hex="0306"/>
+  <anchor x="250" y="500" name="_top"/>
+  <anchor x="250" y="800" name="top"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="7D31DC37"/>
+    <component base="pixel" yOffset="700" identifier="A9EDB97C"/>
+    <component base="pixel" xOffset="200" yOffset="600" identifier="422C2DA0"/>
+    <component base="pixel" xOffset="300" yOffset="700" identifier="464AE971"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>422C2DA0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>464AE971</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>7D31DC37</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A9EDB97C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

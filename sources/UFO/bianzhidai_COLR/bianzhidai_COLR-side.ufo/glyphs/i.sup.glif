@@ -2,27 +2,29 @@
 <glyph name="i.sup" format="2">
   <advance width="175"/>
   <outline>
-    <component base="pixel" yOffset="300" identifier="BE72B279"/>
-    <component base="pixel" yOffset="400" identifier="9577AF8C"/>
-    <component base="pixel" yOffset="600" identifier="E67E4945"/>
+    <component base="pixel" yOffset="300" identifier="FADCA1AF"/>
+    <component base="pixel" yOffset="400" identifier="34C378FC"/>
+    <component base="pixel" yOffset="600" identifier="B750FE3F"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>9577AF8C</key>
+        <key>34C378FC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BE72B279</key>
+        <key>B750FE3F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E67E4945</key>
+        <key>FADCA1AF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -2,39 +2,41 @@
 <glyph name="c.sup" format="2">
   <advance width="375"/>
   <outline>
-    <component base="pixel" xOffset="100" yOffset="500" identifier="E3B18CFC"/>
-    <component base="pixel" yOffset="400" identifier="EF38B779"/>
-    <component base="pixel" xOffset="100" yOffset="300" identifier="6981D417"/>
-    <component base="pixel" xOffset="200" yOffset="500" identifier="55287FC1"/>
-    <component base="pixel" xOffset="200" yOffset="300" identifier="E22A3562"/>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="0A15B98C"/>
+    <component base="pixel" yOffset="400" identifier="DDCA729D"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="3DF02EDF"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="B05FE48E"/>
+    <component base="pixel" xOffset="200" yOffset="300" identifier="A880A17A"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>55287FC1</key>
+        <key>0A15B98C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6981D417</key>
+        <key>3DF02EDF</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E22A3562</key>
+        <key>A880A17A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E3B18CFC</key>
+        <key>B05FE48E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>EF38B779</key>
+        <key>DDCA729D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

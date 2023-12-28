@@ -4,39 +4,41 @@
   <unicode hex="0328"/>
   <anchor x="400" y="0" name="_ogonek"/>
   <outline>
-    <component base="pixel" xOffset="100" yOffset="-100" identifier="F737DD23"/>
-    <component base="pixel" yOffset="-200" identifier="75AD56E4"/>
-    <component base="pixel" xOffset="100" yOffset="-300" identifier="88ACAD1D"/>
-    <component base="pixel" xOffset="200" yOffset="-300" identifier="8865F47E"/>
-    <component base="pixel" xOffset="300" yOffset="-200" identifier="B7519163"/>
+    <component base="pixel" xOffset="100" yOffset="-100" identifier="92F63A80"/>
+    <component base="pixel" yOffset="-200" identifier="42835CC3"/>
+    <component base="pixel" xOffset="100" yOffset="-300" identifier="1D3A9A75"/>
+    <component base="pixel" xOffset="200" yOffset="-300" identifier="F40B3B5C"/>
+    <component base="pixel" xOffset="300" yOffset="-200" identifier="42948611"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>75AD56E4</key>
+        <key>1D3A9A75</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8865F47E</key>
+        <key>42835CC3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>88ACAD1D</key>
+        <key>42948611</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>B7519163</key>
+        <key>92F63A80</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F737DD23</key>
+        <key>F40B3B5C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

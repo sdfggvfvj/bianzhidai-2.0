@@ -5,27 +5,29 @@
   <anchor x="200" y="500" name="_top"/>
   <anchor x="200" y="800" name="top"/>
   <outline>
-    <component base="pixel" xOffset="100" yOffset="700" identifier="C05A77A9"/>
-    <component base="pixel" xOffset="200" yOffset="700" identifier="98EB999F"/>
-    <component base="pixel" yOffset="700" identifier="347BE74A"/>
+    <component base="pixel" xOffset="100" yOffset="700" identifier="C788F551"/>
+    <component base="pixel" xOffset="200" yOffset="700" identifier="85AFBBDE"/>
+    <component base="pixel" yOffset="700" identifier="4B4A0725"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>347BE74A</key>
+        <key>4B4A0725</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>98EB999F</key>
+        <key>85AFBBDE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C05A77A9</key>
+        <key>C788F551</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightsuperior" format="2">
+  <advance width="375"/>
+  <unicode hex="2078"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="700" identifier="F9336A41"/>
+    <component base="pixel" yOffset="600" identifier="535FC222"/>
+    <component base="pixel" xOffset="200" yOffset="600" identifier="533135B6"/>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="C662C65E"/>
+    <component base="pixel" yOffset="400" identifier="032BB5AD"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="4EFEBBAE"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="2CA428DD"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>032BB5AD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2CA428DD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4EFEBBAE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>533135B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>535FC222</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C662C65E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F9336A41</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

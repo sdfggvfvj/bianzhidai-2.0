@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <advance width="400"/>
+  <unicode hex="0327"/>
+  <anchor x="213" y="0" name="_bottom"/>
+  <anchor x="213" y="-299" name="bottom"/>
+  <outline>
+    <component base="pixel" xOffset="200" yOffset="-100" identifier="20C17A7B"/>
+    <component base="pixel" xOffset="300" yOffset="-200" identifier="BC00975C"/>
+    <component base="pixel" xOffset="100" yOffset="-300" identifier="32828256"/>
+    <component base="pixel" xOffset="300" identifier="BBFC08C0"/>
+    <component base="pixel" yOffset="-200" identifier="E57E078D"/>
+    <component base="pixel" xOffset="200" yOffset="-300" identifier="DAD21D93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>20C17A7B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>32828256</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBFC08C0</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BC00975C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DAD21D93</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E57E078D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

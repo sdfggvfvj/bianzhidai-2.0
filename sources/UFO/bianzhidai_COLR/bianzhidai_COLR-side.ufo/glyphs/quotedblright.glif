@@ -3,33 +3,35 @@
   <advance width="600"/>
   <unicode hex="201D"/>
   <outline>
-    <component base="pixel" xOffset="350" yOffset="600" identifier="D9238F9B"/>
-    <component base="pixel" xOffset="350" yOffset="500" identifier="DD2BF60F"/>
-    <component base="pixel" xOffset="150" yOffset="500" identifier="1C29C4C8"/>
-    <component base="pixel" xOffset="150" yOffset="600" identifier="E4CDA969"/>
+    <component base="pixel" xOffset="350" yOffset="600" identifier="50373C0E"/>
+    <component base="pixel" xOffset="350" yOffset="500" identifier="6EE2E970"/>
+    <component base="pixel" xOffset="150" yOffset="500" identifier="ED7787E8"/>
+    <component base="pixel" xOffset="150" yOffset="600" identifier="48A263F8"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>1C29C4C8</key>
+        <key>48A263F8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D9238F9B</key>
+        <key>50373C0E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DD2BF60F</key>
+        <key>6EE2E970</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E4CDA969</key>
+        <key>ED7787E8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

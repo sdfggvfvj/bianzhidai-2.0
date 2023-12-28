@@ -3,45 +3,47 @@
   <advance width="500"/>
   <unicode hex="002C"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="100" identifier="67D183BF"/>
-    <component base="pixel" xOffset="150" identifier="7A7EDBB7"/>
-    <component base="pixel" xOffset="250" identifier="9A27CCC6"/>
-    <component base="pixel" xOffset="250" yOffset="100" identifier="06D1998B"/>
-    <component base="pixel" xOffset="250" yOffset="-100" identifier="4D7567A3"/>
-    <component base="pixel" xOffset="150" yOffset="-200" identifier="3AC20458"/>
+    <component base="pixel" xOffset="150" yOffset="100" identifier="EDA1A620"/>
+    <component base="pixel" xOffset="150" identifier="EEC60DA4"/>
+    <component base="pixel" xOffset="250" identifier="9F3F017E"/>
+    <component base="pixel" xOffset="250" yOffset="100" identifier="4DD2466A"/>
+    <component base="pixel" xOffset="250" yOffset="-100" identifier="C589F2E6"/>
+    <component base="pixel" xOffset="150" yOffset="-200" identifier="6B7C57C7"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>06D1998B</key>
+        <key>4DD2466A</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3AC20458</key>
+        <key>6B7C57C7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>4D7567A3</key>
+        <key>9F3F017E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>67D183BF</key>
+        <key>C589F2E6</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7A7EDBB7</key>
+        <key>EDA1A620</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9A27CCC6</key>
+        <key>EEC60DA4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar" format="2">
+  <advance width="175"/>
+  <unicode hex="007C"/>
+  <outline>
+    <component base="pixel" identifier="FFC28296"/>
+    <component base="pixel" yOffset="100" identifier="457A2684"/>
+    <component base="pixel" yOffset="200" identifier="D4DCDA89"/>
+    <component base="pixel" yOffset="300" identifier="F73D72C5"/>
+    <component base="pixel" yOffset="400" identifier="2A5CC5DD"/>
+    <component base="pixel" yOffset="500" identifier="1FB79F1D"/>
+    <component base="pixel" yOffset="600" identifier="B3C5DA9E"/>
+    <component base="pixel" yOffset="-100" identifier="FCAD341C"/>
+    <component base="pixel" yOffset="-200" identifier="022AB78F"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>022AB78F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>1FB79F1D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2A5CC5DD</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>457A2684</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B3C5DA9E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D4DCDA89</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F73D72C5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FCAD341C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FFC28296</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

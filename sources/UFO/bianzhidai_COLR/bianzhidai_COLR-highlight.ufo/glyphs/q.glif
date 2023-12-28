@@ -1,0 +1,116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="q" format="2">
+  <advance width="875"/>
+  <unicode hex="0071"/>
+  <anchor x="450" y="0" name="bottom"/>
+  <anchor x="450" y="500" name="top"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="E4E248D4"/>
+    <component base="pixel" xOffset="300" identifier="2C8A5045"/>
+    <component base="pixel" xOffset="500" yOffset="200" identifier="FF517BD9"/>
+    <component base="pixel" xOffset="300" yOffset="400" identifier="4A245FCB"/>
+    <component base="pixel" xOffset="400" yOffset="400" identifier="DFA87DD9"/>
+    <component base="pixel" xOffset="500" yOffset="300" identifier="5BCF8F28"/>
+    <component base="pixel" yOffset="100" identifier="6C4F8940"/>
+    <component base="pixel" yOffset="200" identifier="05A22187"/>
+    <component base="pixel" xOffset="200" identifier="6BA8A82E"/>
+    <component base="pixel" xOffset="400" yOffset="100" identifier="D120196D"/>
+    <component base="pixel" xOffset="600" yOffset="300" identifier="E4F731FC"/>
+    <component base="pixel" xOffset="200" yOffset="-100" identifier="9CB2B6BC"/>
+    <component base="pixel" xOffset="100" yOffset="-200" identifier="612967A5"/>
+    <component base="pixel" xOffset="100" identifier="0A25F66C"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="4FA448CC"/>
+    <component base="pixel" xOffset="700" yOffset="400" identifier="58183FF5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>05A22187</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>0A25F66C</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>2C8A5045</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4A245FCB</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4FA448CC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>58183FF5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5BCF8F28</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>612967A5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6BA8A82E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6C4F8940</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9CB2B6BC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D120196D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>DFA87DD9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E4E248D4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E4F731FC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FF517BD9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

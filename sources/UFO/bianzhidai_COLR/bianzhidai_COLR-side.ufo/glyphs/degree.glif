@@ -3,45 +3,47 @@
   <advance width="475"/>
   <unicode hex="00B0"/>
   <outline>
-    <component base="pixel" xOffset="100" yOffset="600" identifier="BA07E82E"/>
-    <component base="pixel" xOffset="200" yOffset="600" identifier="15BF431B"/>
-    <component base="pixel" xOffset="300" yOffset="500" identifier="F8C8ACDF"/>
-    <component base="pixel" xOffset="200" yOffset="400" identifier="6C20DF31"/>
-    <component base="pixel" yOffset="500" identifier="38559B55"/>
-    <component base="pixel" xOffset="100" yOffset="400" identifier="E9E50E1A"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="73459AC2"/>
+    <component base="pixel" xOffset="200" yOffset="600" identifier="9E5EEB4B"/>
+    <component base="pixel" xOffset="300" yOffset="500" identifier="85F690EA"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="DE7BDFF4"/>
+    <component base="pixel" yOffset="500" identifier="63E5E6AD"/>
+    <component base="pixel" xOffset="100" yOffset="400" identifier="8B85671D"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>15BF431B</key>
+        <key>63E5E6AD</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>38559B55</key>
+        <key>73459AC2</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6C20DF31</key>
+        <key>85F690EA</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>BA07E82E</key>
+        <key>8B85671D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>E9E50E1A</key>
+        <key>9E5EEB4B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F8C8ACDF</key>
+        <key>DE7BDFF4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

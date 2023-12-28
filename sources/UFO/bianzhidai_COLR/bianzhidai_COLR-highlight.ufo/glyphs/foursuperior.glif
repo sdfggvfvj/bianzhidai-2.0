@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="foursuperior" format="2">
+  <advance width="475"/>
+  <unicode hex="2074"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="35554422"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="4159EC75"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="E759A04F"/>
+    <component base="pixel" xOffset="200" yOffset="300" identifier="8194E6B3"/>
+    <component base="pixel" xOffset="100" yOffset="400" identifier="1EAD57A1"/>
+    <component base="pixel" xOffset="300" yOffset="400" identifier="89062A8F"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="FE1243E8"/>
+    <component base="pixel" yOffset="400" identifier="CE0D8DD9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>1EAD57A1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>35554422</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4159EC75</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8194E6B3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>89062A8F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CE0D8DD9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E759A04F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FE1243E8</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

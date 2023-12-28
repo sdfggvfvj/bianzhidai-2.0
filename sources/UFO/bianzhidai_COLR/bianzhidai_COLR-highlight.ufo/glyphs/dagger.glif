@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="375"/>
+  <unicode hex="2020"/>
+  <outline>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="8B598C99"/>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="D8085B96"/>
+    <component base="pixel" xOffset="100" yOffset="400" identifier="149AEC24"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="C68CD127"/>
+    <component base="pixel" yOffset="500" identifier="CED730E3"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="B8959E5B"/>
+    <component base="pixel" xOffset="100" yOffset="200" identifier="F0D13343"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>149AEC24</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8B598C99</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>B8959E5B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C68CD127</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>CED730E3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D8085B96</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F0D13343</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

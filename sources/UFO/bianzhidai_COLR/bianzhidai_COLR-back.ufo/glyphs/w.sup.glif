@@ -2,57 +2,59 @@
 <glyph name="w.sup" format="2">
   <advance width="575"/>
   <outline>
-    <component base="pixel" yOffset="500" identifier="9F626641"/>
-    <component base="pixel" yOffset="400" identifier="31C0DEDC"/>
-    <component base="pixel" xOffset="100" yOffset="300" identifier="83B245A6"/>
-    <component base="pixel" xOffset="200" yOffset="400" identifier="3749EA0B"/>
-    <component base="pixel" xOffset="200" yOffset="500" identifier="D843AEF1"/>
-    <component base="pixel" xOffset="300" yOffset="300" identifier="8AEA10FE"/>
-    <component base="pixel" xOffset="400" yOffset="400" identifier="73A12D46"/>
-    <component base="pixel" xOffset="400" yOffset="500" identifier="3C4DE9B0"/>
+    <component base="pixel" yOffset="500" identifier="036C4034"/>
+    <component base="pixel" yOffset="400" identifier="88A54ED8"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="2E5B814E"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="B857BE04"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="5ACBFDF9"/>
+    <component base="pixel" xOffset="300" yOffset="300" identifier="943A4405"/>
+    <component base="pixel" xOffset="400" yOffset="400" identifier="082B9F18"/>
+    <component base="pixel" xOffset="400" yOffset="500" identifier="14B6925F"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>31C0DEDC</key>
+        <key>036C4034</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3749EA0B</key>
+        <key>082B9F18</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3C4DE9B0</key>
+        <key>14B6925F</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>73A12D46</key>
+        <key>2E5B814E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>83B245A6</key>
+        <key>5ACBFDF9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8AEA10FE</key>
+        <key>88A54ED8</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>9F626641</key>
+        <key>943A4405</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D843AEF1</key>
+        <key>B857BE04</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

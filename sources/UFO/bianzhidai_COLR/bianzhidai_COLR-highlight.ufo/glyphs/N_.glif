@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="675"/>
+  <unicode hex="004E"/>
+  <anchor x="350" y="0" name="bottom"/>
+  <anchor x="350" y="700" name="top"/>
+  <outline>
+    <component base="pixel" yOffset="100" identifier="5D29C7F5"/>
+    <component base="pixel" yOffset="200" identifier="03CB778A"/>
+    <component base="pixel" yOffset="300" identifier="551AD410"/>
+    <component base="pixel" yOffset="400" identifier="85BB6F52"/>
+    <component base="pixel" yOffset="500" identifier="BBF6F5D3"/>
+    <component base="pixel" yOffset="600" identifier="6AA72DE5"/>
+    <component base="pixel" identifier="8E6765B4"/>
+    <component base="pixel" xOffset="100" yOffset="500" identifier="4920D4A3"/>
+    <component base="pixel" xOffset="500" identifier="E1217ABE"/>
+    <component base="pixel" xOffset="500" yOffset="600" identifier="683E8A03"/>
+    <component base="pixel" xOffset="500" yOffset="500" identifier="9A3B634F"/>
+    <component base="pixel" xOffset="500" yOffset="400" identifier="83A186F2"/>
+    <component base="pixel" xOffset="500" yOffset="300" identifier="9E0BFF90"/>
+    <component base="pixel" xOffset="500" yOffset="200" identifier="29357C0B"/>
+    <component base="pixel" xOffset="500" yOffset="100" identifier="6EE0363F"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="8F41A32F"/>
+    <component base="pixel" xOffset="200" yOffset="300" identifier="D2EDECB1"/>
+    <component base="pixel" xOffset="300" yOffset="200" identifier="61A311E9"/>
+    <component base="pixel" xOffset="400" yOffset="100" identifier="66B1314E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>03CB778A</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>29357C0B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>4920D4A3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>551AD410</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>5D29C7F5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>61A311E9</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>66B1314E</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>683E8A03</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6AA72DE5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>6EE0363F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>83A186F2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>85BB6F52</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8E6765B4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8F41A32F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9A3B634F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>9E0BFF90</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>BBF6F5D3</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>D2EDECB1</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E1217ABE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -3,39 +3,41 @@
   <advance width="600"/>
   <unicode hex="203A"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="400" identifier="D23C20A1"/>
-    <component base="pixel" xOffset="250" yOffset="300" identifier="92FDC43A"/>
-    <component base="pixel" xOffset="350" yOffset="200" identifier="7C237D2F"/>
-    <component base="pixel" xOffset="250" yOffset="100" identifier="8E65F53D"/>
-    <component base="pixel" xOffset="150" identifier="803A97A4"/>
+    <component base="pixel" xOffset="150" yOffset="400" identifier="DAD059E4"/>
+    <component base="pixel" xOffset="250" yOffset="300" identifier="706D4AF1"/>
+    <component base="pixel" xOffset="350" yOffset="200" identifier="4F01B80B"/>
+    <component base="pixel" xOffset="250" yOffset="100" identifier="1A44DB9C"/>
+    <component base="pixel" xOffset="150" identifier="804C5F09"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>7C237D2F</key>
+        <key>1A44DB9C</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>803A97A4</key>
+        <key>4F01B80B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>8E65F53D</key>
+        <key>706D4AF1</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>92FDC43A</key>
+        <key>804C5F09</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D23C20A1</key>
+        <key>DAD059E4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -5,33 +5,35 @@
   <anchor x="250" y="500" name="_top"/>
   <anchor x="250" y="800" name="top"/>
   <outline>
-    <component base="pixel" xOffset="100" yOffset="600" identifier="7C78BB8E"/>
-    <component base="pixel" yOffset="700" identifier="01A46D35"/>
-    <component base="pixel" xOffset="200" yOffset="600" identifier="F55E89D3"/>
-    <component base="pixel" xOffset="300" yOffset="700" identifier="A244C8BC"/>
+    <component base="pixel" xOffset="100" yOffset="600" identifier="7B457E27"/>
+    <component base="pixel" yOffset="700" identifier="BAC9B3B9"/>
+    <component base="pixel" xOffset="200" yOffset="600" identifier="3A0CF8CC"/>
+    <component base="pixel" xOffset="300" yOffset="700" identifier="67589261"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2023-12-28 20:15:38 +0000</string>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>01A46D35</key>
+        <key>3A0CF8CC</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7C78BB8E</key>
+        <key>67589261</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>A244C8BC</key>
+        <key>7B457E27</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>F55E89D3</key>
+        <key>BAC9B3B9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft" format="2">
+  <advance width="700"/>
+  <unicode hex="007B"/>
+  <outline>
+    <component base="pixel" xOffset="450" yOffset="600" identifier="656E9B6D"/>
+    <component base="pixel" xOffset="350" yOffset="500" identifier="E2783842"/>
+    <component base="pixel" xOffset="350" yOffset="400" identifier="FC272DC2"/>
+    <component base="pixel" xOffset="350" yOffset="300" identifier="11554B1F"/>
+    <component base="pixel" xOffset="250" yOffset="200" identifier="AC3BDA46"/>
+    <component base="pixel" xOffset="350" yOffset="100" identifier="C61DA28B"/>
+    <component base="pixel" xOffset="350" identifier="EC8CE745"/>
+    <component base="pixel" xOffset="350" yOffset="-100" identifier="26F4CDCE"/>
+    <component base="pixel" xOffset="450" yOffset="-200" identifier="A0730F18"/>
+    <component base="pixel" xOffset="150" yOffset="200" identifier="0FAA115B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-12-28 20:48:43 +0000</string>
+      <key>public.markColor</key>
+      <string>0.97,0.9,0,1</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>0FAA115B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>11554B1F</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>26F4CDCE</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>656E9B6D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A0730F18</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>AC3BDA46</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>C61DA28B</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>E2783842</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>EC8CE745</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>FC272DC2</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
