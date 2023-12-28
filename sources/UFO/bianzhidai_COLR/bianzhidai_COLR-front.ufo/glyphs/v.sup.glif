@@ -2,11 +2,11 @@
 <glyph name="v.sup" format="2">
   <advance width="375"/>
   <outline>
-    <component base="pixel" yOffset="400" identifier="C1BEFE97"/>
-    <component base="pixel" xOffset="100" yOffset="300" identifier="EC2D5693"/>
-    <component base="pixel" xOffset="200" yOffset="400" identifier="077A625E"/>
-    <component base="pixel" xOffset="200" yOffset="500" identifier="3F16A0D0"/>
-    <component base="pixel" yOffset="500" identifier="D0B52B57"/>
+    <component base="pixel" yOffset="400" identifier="5F4255D9"/>
+    <component base="pixel" xOffset="100" yOffset="300" identifier="5CE2AECE"/>
+    <component base="pixel" xOffset="200" yOffset="400" identifier="C6B8C69B"/>
+    <component base="pixel" xOffset="200" yOffset="500" identifier="8808FCC0"/>
+    <component base="pixel" yOffset="500" identifier="1EE2A518"/>
   </outline>
   <lib>
     <dict>
@@ -16,27 +16,27 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>077A625E</key>
+        <key>1EE2A518</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>3F16A0D0</key>
+        <key>5CE2AECE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>C1BEFE97</key>
+        <key>5F4255D9</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>D0B52B57</key>
+        <key>8808FCC0</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>EC2D5693</key>
+        <key>C6B8C69B</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

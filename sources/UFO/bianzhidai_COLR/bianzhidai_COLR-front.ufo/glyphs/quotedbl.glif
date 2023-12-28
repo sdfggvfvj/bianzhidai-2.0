@@ -3,10 +3,10 @@
   <advance width="600"/>
   <unicode hex="0022"/>
   <outline>
-    <component base="pixel" xOffset="150" yOffset="600" identifier="2BCA524C"/>
-    <component base="pixel" xOffset="150" yOffset="500" identifier="7C764330"/>
-    <component base="pixel" xOffset="350" yOffset="600" identifier="DF420827"/>
-    <component base="pixel" xOffset="350" yOffset="500" identifier="6E357BC7"/>
+    <component base="pixel" xOffset="150" yOffset="600" identifier="D61C5AB7"/>
+    <component base="pixel" xOffset="150" yOffset="500" identifier="F13FB8C3"/>
+    <component base="pixel" xOffset="350" yOffset="600" identifier="E4231D68"/>
+    <component base="pixel" xOffset="350" yOffset="500" identifier="1AD617BB"/>
   </outline>
   <lib>
     <dict>
@@ -16,22 +16,22 @@
       <string>0.97,0.9,0,1</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>2BCA524C</key>
+        <key>1AD617BB</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>6E357BC7</key>
+        <key>D61C5AB7</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>7C764330</key>
+        <key>E4231D68</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
         </dict>
-        <key>DF420827</key>
+        <key>F13FB8C3</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>
