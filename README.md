@@ -5,7 +5,7 @@ Previously constructed in [GDC](http://glyphdrawing.club)
 (glyphdrawingclub, designed and developed by @hlotvonen and @i-tu ), turned into modular when doing the revision. **bianzhidai** is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
  
 **bianzhidai 2.0** is an updated version, which is intended to provide a stead(ier) structure for the characters, more decorative/playful styles and (slightly) enhanced readbility. With ten styles: Base, Cube, Stitches, Ring, Pearl, Bubble, Messy, Messier, Brush, and Cloud. 
-(Hooo, long list...) **There is an additional 3 styles for color font: bianzhidai_COLR back, side and front.**
+(Hooo, long list...) **There is an additional 4 styles for a layered color font: bianzhidai_COLR back, side, front and hightlight.**
 
 Hope you will enjoy it! ٩(◕‿◕｡)۶
 
