@@ -1,15 +1,16 @@
 {
-.appVersion = "3231";
+.appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
 A,
 "☻",
-z
+z,
+a
 );
 axes = (
 {
-name = Color;
-tag = COLR;
+name = Custom;
+tag = CUST;
 }
 );
 customParameters = (
@@ -134,6 +135,10 @@ value = O;
 {
 name = "Master Color";
 value = (0,153);
+},
+{
+name = "Link Metrics With First Master";
+value = 1;
 }
 );
 id = m004;
@@ -82334,6 +82339,27 @@ instanceInterpolations = {
 "06C8815E-F449-4920-91CB-4F3B6C668DAF" = 1;
 };
 name = back;
+},
+{
+axesValues = (
+5
+);
+customParameters = (
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+name = "Color Palette for SVG";
+value = 1;
+}
+);
+instanceInterpolations = {
+"06C8815E-F449-4920-91CB-4F3B6C668DAF" = 1.75;
+"95A4B20E-CD9F-4625-984C-EF205AF021E5" = -0.5;
+m004 = -0.25;
+};
+name = Multicolor;
 }
 );
 kerningLTR = {
