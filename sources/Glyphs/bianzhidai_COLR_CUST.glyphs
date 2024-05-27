@@ -2,7 +2,14 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"/u.ss01"
+"/u.ss01",
+"//",
+"î",
+"Ć",
+"Ò",
+"Ë",
+"Ă",
+"Á"
 );
 customParameters = (
 {
@@ -22,16 +29,10 @@ value = 0;
 name = "Color Palettes";
 value = (
 (
-(46,33,28,0,255),
-(255,255),
-(128,255),
-(64,255)
-),
-(
-(79,0,0,0,255),
+(66,0,0,0,255),
 (0,0,0,0,255),
-(0,0,255,2,255),
-(168,0,109,137,255)
+(0,0,255,0,255),
+(99,118,0,0,255)
 )
 );
 }
@@ -148,7 +149,7 @@ pos = -200;
 {
 }
 );
-name = COLR;
+name = CUST;
 userData = {
 GSCornerRadius = 304;
 GSExtrudeAngle = 30;
@@ -107874,82 +107875,7 @@ woff2
 instanceInterpolations = {
 "28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
 };
-name = Print;
-},
-{
-customParameters = (
-{
-name = "Color Palette for CPAL";
-value = 0;
-},
-{
-name = "Color Palette for SVG";
-value = 0;
-},
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-name = "Color Layers to COLR";
-value = 1;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-},
-{
-name = "Webfont Formats";
-value = (
-woff,
-woff2
-);
-},
-{
-name = "Save as TrueType";
-value = 1;
-}
-);
-instanceInterpolations = {
-"28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
-};
-name = Web;
-},
-{
-customParameters = (
-{
-name = "Color Palette for SVG";
-value = 1;
-},
-{
-name = "Color Palette for CPAL";
-value = 1;
-},
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-name = "Color Layers to COLR";
-value = 1;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-}
-);
-instanceInterpolations = {
-"28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
-};
-name = CMYK;
+name = CUST;
 }
 );
 kerningLTR = {
