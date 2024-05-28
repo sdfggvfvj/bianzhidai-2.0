@@ -11,6 +11,12 @@ DisplayStrings = (
 "Ă",
 "Á"
 );
+axes = (
+{
+name = Color;
+tag = COLR;
+}
+);
 customParameters = (
 {
 name = "Disable Subroutines";
@@ -29,10 +35,10 @@ value = 0;
 name = "Color Palettes";
 value = (
 (
-(66,0,0,0,255),
-(0,0,0,0,255),
-(0,0,255,0,255),
-(99,118,0,0,255)
+(207,255),
+(255,255),
+(128,255),
+(64,255)
 )
 );
 }
@@ -119,6 +125,9 @@ tag = ss01;
 );
 fontMaster = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = "Master Icon Glyph Name";
@@ -107838,6 +107847,9 @@ width = 100;
 );
 instances = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = "Color Palette for CPAL";
