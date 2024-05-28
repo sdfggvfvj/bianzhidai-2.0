@@ -2,7 +2,16 @@
 .appVersion = "3260";
 .formatVersion = 3;
 DisplayStrings = (
-"/u.ss01"
+"/u.ss01",
+"/pixel",
+"◻",
+"/pixel ◾"
+);
+axes = (
+{
+name = Color;
+tag = COLR;
+}
 );
 customParameters = (
 {
@@ -28,10 +37,10 @@ value = (
 (64,255)
 ),
 (
-(79,0,0,0,255),
-(0,0,0,0,255),
-(0,0,255,2,255),
-(168,0,109,137,255)
+(255,138,216,255),
+(255,252,121,255),
+(122,129,255,255),
+(0,144,81,255)
 )
 );
 }
@@ -118,6 +127,9 @@ tag = ss01;
 );
 fontMaster = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = "Master Icon Glyph Name";
@@ -107193,6 +107205,7 @@ width = 1500;
 color = 9;
 export = 0;
 glyphname = pixel;
+lastChange = "2024-05-28 12:25:32 +0000";
 layers = (
 {
 background = {
@@ -107437,10 +107450,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(0,0,l),
-(100,0,l),
-(100,100,l),
-(0,100,l)
+(25,25,l),
+(75,25,l),
+(75,75,l),
+(25,75,l)
 );
 }
 );
@@ -107837,6 +107850,9 @@ width = 100;
 );
 instances = (
 {
+axesValues = (
+0
+);
 customParameters = (
 {
 name = "Color Palette for CPAL";
@@ -107874,28 +107890,23 @@ woff2
 instanceInterpolations = {
 "28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
 };
-name = Print;
+name = GRAY;
 },
 {
+axesValues = (
+0
+);
 customParameters = (
 {
-name = "Color Palette for CPAL";
-value = 0;
+name = "Color Palette for SVG";
+value = 1;
 },
 {
-name = "Color Palette for SVG";
-value = 0;
+name = "Color Palette for CPAL";
+value = 1;
 },
 {
 name = "Color Layers to SVG";
-value = 1;
-},
-{
-name = "Color Layers to COLR";
-value = 1;
-},
-{
-name = "Export COLR Table";
 value = 1;
 },
 {
@@ -107903,53 +107914,26 @@ name = "Export SVG Table";
 value = 1;
 },
 {
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Color Layers to COLR";
+value = 1;
+},
+{
+disabled = 1;
 name = "Webfont Formats";
 value = (
 woff,
 woff2
 );
-},
-{
-name = "Save as TrueType";
-value = 1;
 }
 );
 instanceInterpolations = {
 "28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
 };
-name = Web;
-},
-{
-customParameters = (
-{
-name = "Color Palette for SVG";
-value = 1;
-},
-{
-name = "Color Palette for CPAL";
-value = 1;
-},
-{
-name = "Color Layers to SVG";
-value = 1;
-},
-{
-name = "Color Layers to COLR";
-value = 1;
-},
-{
-name = "Export COLR Table";
-value = 1;
-},
-{
-name = "Export SVG Table";
-value = 1;
-}
-);
-instanceInterpolations = {
-"28BCC433-BF50-4C39-95C3-69272AB1B10D" = 1;
-};
-name = CMYK;
+name = RGB;
 }
 );
 kerningLTR = {
