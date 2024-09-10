@@ -3,9 +3,9 @@
 
 Okay, recently I'm very obssesed with color fonts, so here you go:
 ADDED 3 new styles for bianzhidai_COLR
-Now you can use both otf (for print and display)
-and woff (for web display)
-enjoy.
+Now you can use both **OTF for print and display)**
+and WOFF **for web display**
+e~n~j~o~y.
 
 ## About BianZhiDai 2.0 ⚡⚡⚡
 
