@@ -1,3 +1,6 @@
+## Update
+![alt text](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
+
 ## About BianZhiDai 2.0 ⚡⚡⚡
 
 **bianzhidai** is inspired by shading characters in ASCII art and 编 织 袋 Biān Zhī Daì (woven plastic bag in Simple Chinese). 

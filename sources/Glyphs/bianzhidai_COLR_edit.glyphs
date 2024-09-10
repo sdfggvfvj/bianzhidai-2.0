@@ -107855,6 +107855,32 @@ customParameters = (
 {
 name = "Color Palette for CPAL";
 value = 0;
+},
+{
+name = "Color Palette for SVG";
+value = 0;
+},
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+name = "Color Layers to COLR";
+value = 1;
+},
+{
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Export SVG Table";
+value = 1;
+},
+{
+disabled = 1;
+name = "Webfont Formats";
+value = (
+);
 }
 );
 instanceInterpolations = {
@@ -107870,6 +107896,32 @@ customParameters = (
 {
 name = "Color Palette for CPAL";
 value = 1;
+},
+{
+name = "Color Palette for SVG";
+value = 1;
+},
+{
+name = "Color Layers to SVG";
+value = 1;
+},
+{
+name = "Color Layers to COLR";
+value = 1;
+},
+{
+name = "Export COLR Table";
+value = 1;
+},
+{
+name = "Export SVG Table";
+value = 1;
+},
+{
+disabled = 1;
+name = "Webfont Formats";
+value = (
+);
 }
 );
 instanceInterpolations = {
