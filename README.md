@@ -1,11 +1,19 @@
-## Update
-![alt text](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
+## Update (2024.09.10)
+![COLR FONT preview](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
+
+Okay, recently I'm very obssesed with color fonts, so here you go:
+ADDED 3 new styles for bianzhidai_COLR
+Now you can use both otf (for print and display)
+and woff (for web display)
+enjoy.
 
 ## About BianZhiDai 2.0 ⚡⚡⚡
 
 **bianzhidai** is inspired by shading characters in ASCII art and 编 织 袋 Biān Zhī Daì (woven plastic bag in Simple Chinese). 
 Previously constructed in [GDC](http://glyphdrawing.club) 
-(glyphdrawingclub, designed and developed by @hlotvonen and @i-tu ), turned into modular when doing the revision. **bianzhidai** is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
+(glyphdrawingclub, an online drawing tool made by @hlotvonen and @i-tu ), turned into modular when doing the revision. 
+
+**bianzhidai** is good with colors, especially in combination with different fill/stroke colors. Try it, and play it. Besides, the whole font is modular based, so you can customize it in [Glyphs](https://glyphsapp.com/) any way you like.
  
 **bianzhidai 2.0** is an updated version, which is intended to provide a stead(ier) structure for the characters, more decorative/playful styles and (slightly) enhanced readbility. With ten styles: Base, Cube, Stitches, Ring, Pearl, Bubble, Messy, Messier, Brush, and Cloud. 
 (Hooo, long list...) **There is an additional 4 styles for a layered color font: bianzhidai_COLR back, side, front and hightlight.**
