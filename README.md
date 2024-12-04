@@ -1,3 +1,9 @@
+## Update (2024.12.04)
+٩(◕‿◕｡)۶
+I'm slowly building Simple Chinese characters for bianzhidai 2.5, along with 3 lovely people: Sixin Zeng, Yizhen Leong, and Claire Tan.
+Stay tunes. (Not sure when we will have the first release tho)
+
+-- Xiaoyuan (notyourtypefoundry)
 ## Update (2024.09.10)
 ![COLR FONT preview](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
 
