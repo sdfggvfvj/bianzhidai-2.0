@@ -1,7 +1,10 @@
 ## Update (2026.02.26)
-This typeface was previously released under the SIL Open Font License 1.1. As of March 2026, it is now licensed under the Free To Use BUT Be Nice License. Prior downloads under the SIL OFL 1.1 remain valid under that license.
+This typeface was previously released under the SIL Open Font License 1.1.
+As of 26 February 2026, it is now licensed under the Free To Use BUT Be Nice License.
+Prior downloads under the SIL OFL 1.1 remain valid under that license.
 
 -- Xiaoyuan (notyourtypefoundry)
+
 ## Update (2024.09.10)
 ![COLR FONT preview](COLR_STYLE_Preview.png "COLR STYLE UPDATE")
 
