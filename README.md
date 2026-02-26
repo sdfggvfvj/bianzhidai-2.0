@@ -1,7 +1,5 @@
-## Update (2024.12.04)
-٩(◕‿◕｡)۶
-I'm slowly building Simple Chinese characters for bianzhidai 2.5, along with 3 lovely people: Sixin Zeng, Yizhen Leong, and Claire Tan.
-Stay tunes. (Not sure when we will have the first release tho)
+## Update (2026.02.26)
+This typeface was previously released under the SIL Open Font License 1.1. As of March 2026, it is now licensed under the Free To Use BUT Be Nice License. Prior downloads under the SIL OFL 1.1 remain valid under that license.
 
 -- Xiaoyuan (notyourtypefoundry)
 ## Update (2024.09.10)
