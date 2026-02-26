@@ -1,6 +1,10 @@
 # Free To Use BUT Be Nice License
 
-**bianzhidai** — notyourtypefoundry  
+**Version 1.1**  
+**Effective: 26 February 2026**
+
+This typeface was previously released under the SIL Open Font License 1.1. As of 26 February 2026, it is now licensed under the Free To Use BUT Be Nice License. Prior downloads under the SIL OFL 1.1 remain valid under that license.
+
 © Xiaoyuan Gao / notyourtypefoundry. All rights reserved.
 
 ---
