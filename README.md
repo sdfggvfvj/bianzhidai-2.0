@@ -34,7 +34,7 @@ Hope you will enjoy it! ٩(◕‿◕｡)۶
 Xiaoyuan Gao(CN) is a Rotterdam-based freelance graphic designer, image-maker, type designer and the initiator of “notyourtype foundry”. She loves experimenting with unconventional approaches to type design and typesetting. She sees type design (making custom characters into a font file) as making a tool for typing, just like a customised typewriter. She also enjoys creating visuals out of found images , which allows her to combine typography and imagery in playful ways. 
 
 ## License ⚡
-Bianzhidai is licensed under the SIL Open Font License, version 1.1.
+Bianzhidai is under Free To Use BUT Be Nice License, version 1.1.
 
 ## Publisher 💿
 [Velvetyne Type Foundry](https://velvetyne.fr/)
