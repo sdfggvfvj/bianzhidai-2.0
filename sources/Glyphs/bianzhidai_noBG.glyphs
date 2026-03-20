@@ -1,17 +1,9 @@
 {
-.appVersion = "3151";
+.appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
-"0",
-"/pixel",
-"◢",
-"È",
-"Hello Friends",
-LOVE,
-GOOD,
-"DEAR FRIENDS.",
-"Pickup the Sesame",
-""
+"❤",
+"@"
 );
 axes = (
 {
@@ -58,9 +50,9 @@ tag = aalt;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
-	script latn;
-	language NLD;
+code = "script latn;
+language NLD;
+lookup locl_latn_0 {
 	sub iacute j' by jacute;
 	sub Iacute J' by Jacute;
 } locl_latn_0;
@@ -154,7 +146,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Base;
@@ -196,7 +187,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Cube;
@@ -238,7 +228,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Stitches;
@@ -280,7 +269,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Ring;
@@ -322,7 +310,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Pearl;
@@ -364,7 +351,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Bubble;
@@ -406,7 +392,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Messy;
@@ -448,7 +433,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Messier;
@@ -490,7 +474,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Brush;
@@ -532,7 +515,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Cloud;
@@ -14922,7 +14904,7 @@ unicode = 73;
 },
 {
 glyphname = IJ;
-lastChange = "2023-11-28 12:37:18 +0000";
+lastChange = "2026-03-20 09:26:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -14980,9 +14962,11 @@ width = 1250;
 layerId = m005;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
+alignment = -1;
 pos = (600,0);
 ref = J;
 }
@@ -15006,9 +14990,11 @@ width = 1654;
 layerId = m007;
 shapes = (
 {
+alignment = -1;
 ref = I;
 },
 {
+alignment = -1;
 pos = (890,0);
 ref = J;
 }
@@ -55583,7 +55569,7 @@ unicode = 236;
 },
 {
 glyphname = ij;
-lastChange = "2024-01-01 22:24:09 +0000";
+lastChange = "2026-03-20 09:26:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -55667,9 +55653,11 @@ width = 1854;
 layerId = m007;
 shapes = (
 {
+alignment = -1;
 ref = i;
 },
 {
+alignment = -1;
 pos = (590,0);
 ref = j;
 }
@@ -62270,7 +62258,7 @@ unicode = 328;
 },
 {
 glyphname = ntilde;
-lastChange = "2024-01-01 22:24:09 +0000";
+lastChange = "2026-03-20 09:26:22 +0000";
 layers = (
 {
 layerId = m01;
@@ -62393,9 +62381,11 @@ width = 1286;
 layerId = m010;
 shapes = (
 {
+alignment = -1;
 ref = n;
 },
 {
+alignment = -1;
 pos = (200,0);
 ref = tildecomb;
 }
@@ -263000,6 +262990,15 @@ type = "italic angle";
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "Xiaoyuan Gao and notyourtype foundry";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -263022,35 +263021,8 @@ value = "Xiaoyuan Gao";
 );
 },
 {
-key = copyrights;
-values = (
-{
-language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
-}
-);
-},
-{
-key = licenses;
-values = (
-{
-language = ENG;
-value = "SIL Open Font License";
-}
-);
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL";
-},
-{
-key = trademarks;
-values = (
-{
-language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
-}
-);
+key = manufacturerURL;
+value = "https://notyourtype.nl";
 },
 {
 key = sampleTexts;
@@ -263062,8 +263034,13 @@ value = "The Lazy Dogs Jumped Over The Quick Brown Fox. ";
 );
 },
 {
-key = manufacturerURL;
-value = "https://notyourtype.nl";
+key = trademarks;
+values = (
+{
+language = ENG;
+value = "Xiaoyuan Gao and notyourtype foundry";
+}
+);
 },
 {
 key = vendorID;

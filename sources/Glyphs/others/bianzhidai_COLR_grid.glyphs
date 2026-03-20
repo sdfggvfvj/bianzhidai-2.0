@@ -1,5 +1,5 @@
 {
-.appVersion = "3260";
+.appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
 "/pixel",
@@ -108080,19 +108080,6 @@ value = "Xiaoyuan Gao";
 {
 key = designerURL;
 value = "https://notyourtype.nl";
-},
-{
-key = licenses;
-values = (
-{
-language = ENG;
-value = "SIL Open Font License";
-}
-);
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL";
 },
 {
 key = manufacturers;

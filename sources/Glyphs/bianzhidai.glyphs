@@ -1,5 +1,5 @@
 {
-.appVersion = "3151";
+.appVersion = "3436";
 .formatVersion = 3;
 DisplayStrings = (
 "/pixel_800 1",
@@ -108,7 +108,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Base;
@@ -150,7 +149,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Cube;
@@ -192,7 +190,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Stitches;
@@ -234,7 +231,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Ring;
@@ -276,7 +272,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Pearl;
@@ -318,7 +313,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Bubble;
@@ -360,7 +354,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Messy;
@@ -402,7 +395,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Messier;
@@ -444,7 +436,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Brush;
@@ -486,7 +477,6 @@ over = -16;
 pos = -200;
 },
 {
-over = -16;
 }
 );
 name = Cloud;
@@ -268596,6 +268586,15 @@ type = "italic angle";
 );
 properties = (
 {
+key = copyrights;
+values = (
+{
+language = ENG;
+value = "Xiaoyuan Gao and notyourtype foundry";
+}
+);
+},
+{
 key = designers;
 values = (
 {
@@ -268618,35 +268617,8 @@ value = "Xiaoyuan Gao";
 );
 },
 {
-key = copyrights;
-values = (
-{
-language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
-}
-);
-},
-{
-key = licenses;
-values = (
-{
-language = ENG;
-value = "SIL Open Font License";
-}
-);
-},
-{
-key = licenseURL;
-value = "https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL";
-},
-{
-key = trademarks;
-values = (
-{
-language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
-}
-);
+key = manufacturerURL;
+value = "https://notyourtype.nl";
 },
 {
 key = sampleTexts;
@@ -268658,8 +268630,13 @@ value = "The Lazy dogs Jumped Over The Quick Brown Fox. ";
 );
 },
 {
-key = manufacturerURL;
-value = "https://notyourtype.nl";
+key = trademarks;
+values = (
+{
+language = ENG;
+value = "Xiaoyuan Gao and notyourtype foundry";
+}
+);
 }
 );
 settings = {
