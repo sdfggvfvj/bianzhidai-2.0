@@ -267915,7 +267915,6 @@ instances = (
 axesValues = (
 50
 );
-exports = 0;
 instanceInterpolations = {
 m01 = 1;
 };
@@ -267926,7 +267925,6 @@ weightClass = 100;
 axesValues = (
 75
 );
-exports = 0;
 instanceInterpolations = {
 m004 = 1;
 };
@@ -267937,7 +267935,6 @@ weightClass = 200;
 axesValues = (
 85
 );
-exports = 0;
 instanceInterpolations = {
 m005 = 1;
 };
@@ -267948,7 +267945,6 @@ weightClass = 200;
 axesValues = (
 100
 );
-exports = 0;
 instanceInterpolations = {
 "57D35150-1721-4423-B26D-0AF94DC0A6EC" = 1;
 };
@@ -267959,7 +267955,6 @@ weightClass = 300;
 axesValues = (
 125
 );
-exports = 0;
 instanceInterpolations = {
 "BD065D86-5735-465D-911D-26A78557455B" = 1;
 };
@@ -267975,6 +267970,7 @@ name = Filter;
 value = "RemoveOverlap;";
 }
 );
+exports = 0;
 instanceInterpolations = {
 m010 = 1;
 };
@@ -267985,7 +267981,6 @@ weightClass = 500;
 axesValues = (
 200
 );
-exports = 0;
 instanceInterpolations = {
 m007 = 1;
 };
@@ -267996,7 +267991,6 @@ weightClass = 600;
 axesValues = (
 250
 );
-exports = 0;
 instanceInterpolations = {
 m009 = 1;
 };
@@ -268007,7 +268001,6 @@ weightClass = 700;
 axesValues = (
 350
 );
-exports = 0;
 instanceInterpolations = {
 m008 = 1;
 };
@@ -268024,6 +268017,7 @@ name = Filter;
 value = "RemoveOverlap;";
 }
 );
+exports = 0;
 instanceInterpolations = {
 m006 = 1;
 };
