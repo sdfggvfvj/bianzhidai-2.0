@@ -262318,6 +262318,13 @@ instances = (
 axesValues = (
 50
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 m01 = 1;
 };
@@ -262328,6 +262335,13 @@ weightClass = 100;
 axesValues = (
 75
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 m004 = 1;
 };
@@ -262338,6 +262352,13 @@ weightClass = 200;
 axesValues = (
 85
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 m005 = 1;
 };
@@ -262348,6 +262369,13 @@ weightClass = 200;
 axesValues = (
 100
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 "57D35150-1721-4423-B26D-0AF94DC0A6EC" = 1;
 };
@@ -262358,6 +262386,13 @@ weightClass = 300;
 axesValues = (
 125
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 "BD065D86-5735-465D-911D-26A78557455B" = 1;
 };
@@ -262377,6 +262412,13 @@ weightClass = 500;
 axesValues = (
 200
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 m007 = 1;
 };
@@ -262397,6 +262439,13 @@ weightClass = 700;
 axesValues = (
 350
 );
+customParameters = (
+{
+name = Filter;
+value = "RemoveOverlap;";
+}
+);
+exports = 0;
 instanceInterpolations = {
 m008 = 1;
 };
@@ -262994,7 +263043,16 @@ key = copyrights;
 values = (
 {
 language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
+value = "Copyright © 2023 by Xiaoyuan Gao. All rights reserved. The font software and all related rights are protected by intellectual property law. Use is only permitted in compliance with the license terms. In particular, you are not allowed to reverse engineer, copy, modify, sell or sublicense the software, and you may not otherwise infringe the owner’s intellectual property rights.";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "The font software and all related rights are protected by intellectual property law. Use is only permitted in compliance with the license terms. In particular, you are not allowed to reverse engineer, copy, modify, sell or sublicense the software, and you may not otherwise infringe the owner’s intellectual property rights.";
 }
 );
 },
@@ -263009,36 +263067,40 @@ value = "Xiaoyuan Gao";
 },
 {
 key = designerURL;
-value = "https://notyourtype.nl";
+value = notyourtype.nl;
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "The font software and all related rights are protected by intellectual property law. Use is only permitted in compliance with the license terms. In particular, you are not allowed to reverse engineer, copy, modify, sell or sublicense the software, and you may not otherwise infringe the owner’s intellectual property rights.";
+}
+);
+},
+{
+key = licenseURL;
+value = "notyourtype.nl/info";
 },
 {
 key = manufacturers;
 values = (
 {
 language = ENG;
-value = "Xiaoyuan Gao";
+value = notyourtypefoundry;
 }
 );
 },
 {
 key = manufacturerURL;
-value = "https://notyourtype.nl";
-},
-{
-key = sampleTexts;
-values = (
-{
-language = ENG;
-value = "The Lazy Dogs Jumped Over The Quick Brown Fox. ";
-}
-);
+value = notyourtype.nl;
 },
 {
 key = trademarks;
 values = (
 {
 language = ENG;
-value = "Xiaoyuan Gao and notyourtype foundry";
+value = "Xiaoyuan Gao";
 }
 );
 },
